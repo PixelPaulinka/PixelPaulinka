@@ -10,6 +10,9 @@ Ich bin ein Entwickler mit einer Leidenschaft für Künstliche Intelligenz (KI) 
 - **Python** 🐍 – für Datenanalyse und maschinelles Lernen
 - **Machine Learning** 🤖 – für die Entwicklung intelligenter Systeme
 - **Natural Language Processing** (NLP) – für die Textverarbeitung und Sentiment-Analyse
+- **HTML** 🌐 – für das Erstellen von Webseiten
+- **CSS** 🎨 – für das Styling von Webseiten und User Interfaces
+- **JavaScript** ⚙️ – für interaktive Webseiten und Front-End-Entwicklung
 
 ## 🚀 Meine Vision:
 Ich glaube, dass Technologien in der Zukunft allgegenwärtig sein werden und unser tägliches Leben auf innovative Weise verändern. Mein Ziel ist es, durch KI-gestützte Projekte dazu beizutragen, diese Veränderungen positiv zu gestalten.
