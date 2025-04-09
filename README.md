@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hallo, ich bin **PixelPaulinka** 👾
 
-<!--
-**PixelPaulinka/PixelPaulinka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin ein Entwickler mit einer Leidenschaft für Künstliche Intelligenz (KI) und maschinelles Lernen. Mein Ziel ist es, Lösungen zu schaffen, die das Leben der Menschen verbessern und innovative Anwendungen ermöglichen.
 
-Here are some ideas to get you started:
+## 🎯 Was ich mache:
+- Entwicklung von Anwendungen, die auf KI basieren, wie z.B. Analyse von Emotionen in Texten.
+- Arbeit mit maschinellen Lernmodellen und deren Integration in praktische Anwendungen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologien, mit denen ich arbeite:
+- **Python** 🐍 – für Datenanalyse und maschinelles Lernen
+- **Machine Learning** 🤖 – für die Entwicklung intelligenter Systeme
+- **Natural Language Processing** (NLP) – für die Textverarbeitung und Sentiment-Analyse
+- **GitHub** – für Versionskontrolle und Projektmanagement
+
+## 🚀 Meine Vision:
+Ich glaube, dass Technologien in der Zukunft allgegenwärtig sein werden und unser tägliches Leben auf innovative Weise verändern. Mein Ziel ist es, durch KI-gestützte Projekte dazu beizutragen, diese Veränderungen positiv zu gestalten.
