@@ -4,7 +4,6 @@
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Willkommen">
 </div>
 
----
 
 ## 🧭 Über mich
 
@@ -14,7 +13,6 @@ Ich entwickle Software mit Fokus auf klare Strukturen und nachhaltige Visionen. 
 
 > _"Technologie ist Verantwortung, nicht nur Werkzeug."_
 
----
 
 ## 💼 Technologischer Überblick
 
@@ -35,7 +33,6 @@ Ich entwickle Software mit Fokus auf klare Strukturen und nachhaltige Visionen. 
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
 </p>
 
----
 
 ## 📊 Skill-Diagramm
 
@@ -43,7 +40,6 @@ Ich entwickle Software mit Fokus auf klare Strukturen und nachhaltige Visionen. 
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,vscode,unity&perline=4" alt="Meine Skills">
 </p>
 
----
 
 ## 🧠 Fokus-Projekt: **Astrid**
 
@@ -58,7 +54,6 @@ Ein virtuelles KI-Wesen mit Stimme, Emotion und Intelligenz.
 - KI-Backend in Python, Frontend in Unity (C#)
 - Sprachverarbeitung, Big Data & Lernsysteme in Planung
 
----
 
 ## 🧭 Werte & Haltung
 
@@ -68,15 +63,6 @@ Ein virtuelles KI-Wesen mit Stimme, Emotion und Intelligenz.
 - Deutsch zu denken heißt: ehrlich, genau, effizient.  
 - Ich schätze Struktur mehr als Oberfläche.
 
----
-
-## 🔭 Langfristiges Ziel
-
-🇩🇪 Studium & Beruf in Deutschland  
-🎯 Spezialisierung: KI, Sprachsysteme, Big Data  
-❤️ Ein Leben mit Sinn und Verantwortung
-
----
 
 <div align="center">
   
@@ -87,7 +73,6 @@ Ein virtuelles KI-Wesen mit Stimme, Emotion und Intelligenz.
 
 > _„Ich baue nicht einfach Software. Ich baue Vertrauen in eine technologische Zukunft.“_
 
----
 
 Danke für deinen Besuch.
 
