@@ -1,73 +1,50 @@
-# 👋 Hallo, ich bin **PixelPaulinka**  
+# 👋 Hallo, ich bin PixelPaulinka
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250" alt="Cool Tech GIF">
-</div>
-
-## 🚀 Über mich
-
-Ich bin **PixelPaulinka**, Full-Stack-Entwicklerin aus Deutschland mit Fokus auf moderne Web-Architekturen und performante Backends.  
-Mein Antrieb:  
-> „Code ist Poesie – schlank, effizient und elegant.“  
-
----
-
-## 🛠️ Technologiestack
-
-### Sprachen & Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-</p>
-
-### Backend & Datenbanken
-<p align="center">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-</p>
-
-### DevOps & Cloud
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-</p>
-
----
-
-## 📊 GitHub-Statistiken
-
-<div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PixelPaulinka&show_icons=true&theme=dracula)
-  &nbsp;&nbsp;
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PixelPaulinka&layout=compact&theme=dracula)
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Willkommen">
 </div>
 
 ---
 
-## 🎯 Aktuelle Projekte
+## 🧭 Über mich
 
-- **RealTime-Chat** – Skalierbare Websocket-Architektur mit Redis und Docker.  
-- **Serverless-API** – AWS Lambda-Funktionen mit API Gateway und DynamoDB.  
-- **DevOps-Pipeline** – CI/CD mit GitHub Actions, automatisierte Tests & Deployments.  
+Diszipliniert. Zielgerichtet. Klar im Denken.
 
----
+Ich entwickle Software mit Fokus auf klare Strukturen und langfristige Wirkung. Mein Weg ist nicht der schnelle, sondern der nachhaltige. Mein Ziel ist nicht nur Code, sondern Bedeutung.
 
-## 🌟 Warum ich “cool” bin
-
-- Ich automatisiere das, was andere manuell machen.  
-- Ich optimiere APIs auf Millisekunden-Level.  
-- Ich liebe Clean Code und TDD.  
+> *"Technologie ist für mich kein Spiel – sie ist Verantwortung."*
 
 ---
 
-> **Danke für’s Reinschauen!** 🚀  
-> Let’s build the future – one commit at a time.  
+## 💼 Fachliche Schwerpunkte
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-356E9A?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
+
+- Entwicklung mit Python (Skripting, KI-Grundlagen)  
+- Webtechnologien: HTML, CSS, JS  
+- Git & Versionskontrolle  
+- Interesse an C#, Unity und KI-Sprachsystemen  
+- Projekte mit Fokus auf Sprachinteraktion und Mensch-Maschine-Verbindung
+
+---
+
+## 📌 Werte und Prinzipien
+
+- Pünktlichkeit ist Respekt.  
+- Präzision ist Stil.  
+- Einfachheit ist Stärke.  
+- Der Charakter ist das Fundament jeder Technologie.
+
+---
+
+> _„Ich baue nicht einfach Software. Ich baue Vertrauen in eine technologische Zukunft.“_
+
+---
+
+Danke für deinen Besuch.
 
