@@ -25,6 +25,8 @@ Ich entwickle Software mit Fokus auf klare Strukturen und nachhaltige Visionen. 
   <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
+--- 
+
 ### ⚙️ Tools
 
 <p align="center">
@@ -39,20 +41,6 @@ Ich entwickle Software mit Fokus auf klare Strukturen und nachhaltige Visionen. 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,vscode,unity&perline=4" alt="Meine Skills">
 </p>
-
-
-## 🧠 Fokus-Projekt: **Astrid**
-
-Ein virtuelles KI-Wesen mit Stimme, Emotion und Intelligenz.
-
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/2059463/screenshots/5574713/ai_face.gif" width="300" alt="AI girl">
-</div>
-
-- Interaktive Kommunikation
-- Emotionale Reaktion durch neuronale Netze
-- KI-Backend in Python, Frontend in Unity (C#)
-- Sprachverarbeitung, Big Data & Lernsysteme in Planung
 
 
 ## 🧭 Werte & Haltung
