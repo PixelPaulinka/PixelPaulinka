@@ -8,15 +8,17 @@
 
 ## 🧭 Über mich
 
-Diszipliniert. Zielgerichtet. Klar im Denken.
+Diszipliniert. Zukunftsorientiert. Minimalistisch.
 
-Ich entwickle Software mit Fokus auf klare Strukturen und langfristige Wirkung. Mein Weg ist nicht der schnelle, sondern der nachhaltige. Mein Ziel ist nicht nur Code, sondern Bedeutung.
+Ich entwickle Software mit Fokus auf klare Strukturen und nachhaltige Visionen. Mein Ziel: technische Systeme schaffen, die sinnvoll sind – und sprechen können.
 
-> *"Technologie ist für mich kein Spiel – sie ist Verantwortung."*
+> _"Technologie ist Verantwortung, nicht nur Werkzeug."_
 
 ---
 
-## 💼 Fachliche Schwerpunkte
+## 💼 Technologischer Überblick
+
+### 🔧 Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-356E9A?style=for-the-badge&logo=python&logoColor=white">
@@ -25,22 +27,63 @@ Ich entwickle Software mit Fokus auf klare Strukturen und langfristige Wirkung. 
   <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
-- Entwicklung mit Python (Skripting, KI-Grundlagen)  
-- Webtechnologien: HTML, CSS, JS  
-- Git & Versionskontrolle  
-- Interesse an C#, Unity und KI-Sprachsystemen  
-- Projekte mit Fokus auf Sprachinteraktion und Mensch-Maschine-Verbindung
+### ⚙️ Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+</p>
 
 ---
 
-## 📌 Werte und Prinzipien
+## 📊 Skill-Diagramm
 
-- Pünktlichkeit ist Respekt.  
-- Präzision ist Stil.  
-- Einfachheit ist Stärke.  
-- Der Charakter ist das Fundament jeder Technologie.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,vscode,unity&perline=4" alt="Meine Skills">
+</p>
 
 ---
+
+## 🧠 Fokus-Projekt: **Astrid**
+
+Ein virtuelles KI-Wesen mit Stimme, Emotion und Intelligenz.
+
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/2059463/screenshots/5574713/ai_face.gif" width="300" alt="AI girl">
+</div>
+
+- Interaktive Kommunikation
+- Emotionale Reaktion durch neuronale Netze
+- KI-Backend in Python, Frontend in Unity (C#)
+- Sprachverarbeitung, Big Data & Lernsysteme in Planung
+
+---
+
+## 🧭 Werte & Haltung
+
+> _„Pünktlichkeit ist Respekt. Präzision ist Stil. Klarheit ist Würde.“_
+
+- Ich orientiere mich am protestantischen Ethos: Arbeiten mit Disziplin, leben mit Ziel.  
+- Deutsch zu denken heißt: ehrlich, genau, effizient.  
+- Ich schätze Struktur mehr als Oberfläche.
+
+---
+
+## 🔭 Langfristiges Ziel
+
+🇩🇪 Studium & Beruf in Deutschland  
+🎯 Spezialisierung: KI, Sprachsysteme, Big Data  
+❤️ Ein Leben mit Sinn und Verantwortung
+
+---
+
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Technik+mit+Seele.;Ordnung+mit+Zukunft.;Ich+gehe+meinen+Weg.)
+
+</div>
+
 
 > _„Ich baue nicht einfach Software. Ich baue Vertrauen in eine technologische Zukunft.“_
 
