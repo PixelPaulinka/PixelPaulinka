@@ -8,8 +8,3 @@
 </div>
 
 
-> _„Ich baue nicht einfach Software. Ich baue Vertrauen in eine technologische Zukunft.“_
-
-
-Danke für deinen Besuch.
-
