@@ -1,4 +1,4 @@
-# 👋 Hallo, ich bin PixelPaulinka
+Hallo
 
 
 <div align="center">
